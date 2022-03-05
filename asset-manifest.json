@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Harcama-Takip-App-w-React/static/css/main.9736354f.css",
-    "main.js": "/Harcama-Takip-App-w-React/static/js/main.21f4c8c0.js",
+    "main.js": "/Harcama-Takip-App-w-React/static/js/main.fca5166a.js",
     "index.html": "/Harcama-Takip-App-w-React/index.html",
     "main.9736354f.css.map": "/Harcama-Takip-App-w-React/static/css/main.9736354f.css.map",
-    "main.21f4c8c0.js.map": "/Harcama-Takip-App-w-React/static/js/main.21f4c8c0.js.map"
+    "main.fca5166a.js.map": "/Harcama-Takip-App-w-React/static/js/main.fca5166a.js.map"
   },
   "entrypoints": [
     "static/css/main.9736354f.css",
-    "static/js/main.21f4c8c0.js"
+    "static/js/main.fca5166a.js"
   ]
 }
