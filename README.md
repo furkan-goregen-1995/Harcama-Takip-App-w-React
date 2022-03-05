@@ -1,4 +1,4 @@
-[![Watch the video](http://www.furkangoregen.net/images/projects/harcama-takip.jpg](https://youtu.be/BMy-hUd8V90)
+[![Watch the video](http://www.furkangoregen.net/images/projects/harcama-takip.png)](https://www.youtube.com/watch?v=BMy-hUd8V90)
 
 # Harcama-Takip-App-w-React
 
